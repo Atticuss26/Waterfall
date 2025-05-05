@@ -84,7 +84,7 @@ index efe048c9..720d0c3b 100644
 -        sender.sendMessage( ChatColor.BOLD.toString() + ChatColor.RED.toString() + "BungeeCord has been reloaded."
 -                + " This is NOT advisable and you will not be supported with any issues that arise! Please restart BungeeCord ASAP." );
 +        sender.sendMessage( ChatColor.BOLD.toString() + ChatColor.RED.toString() + "Waterfall has been reloaded."
-+                + " This is NOT advisable and you will not be supported with any issues that arise! Please restart Waterfall ASAP." );
++                + " This is NOT advisable and you will not be supported with any issues that arise! Please restart Watefall ASAP." );
      }
  }
 diff --git a/proxy/src/main/java/net/md_5/bungee/conf/YamlConfig.java b/proxy/src/main/java/net/md_5/bungee/conf/YamlConfig.java
